@@ -1,29 +1,50 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to create a new MongoDB database"
 date:   2024-06-11 21:54:09 -0400
-categories: jekyll update
+categories: mongodb
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Create new account for Mongo DB
 
-Jekyll requires blog post files to be named according to the following format:
+![Create Account](https://github.com/loriemoffitt/lessons/blob/main/create_account.jpg)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+After creating your account and verifying your email address, log into MongoDB.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![Login to MongoDB](https://github.com/loriemoffitt/lessons/blob/main/login.jpg)
 
-Jekyll also offers powerful support for code snippets:
+After logging in you will see the screen below, lets create a new cluster by clicking the "Create Cluster" button in the middle of the screen. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![Create a Cluster](https://github.com/loriemoffitt/lessons/blob/main/create_a_cluster.jpg)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Select Advanced Configuration at the bottom of the screen.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Advanced Config](https://github.com/loriemoffitt/lessons/blob/main/advanced_config2.jpg)
+
+Next select the free Shared button at the top.
+
+![Free Shared](https://github.com/loriemoffitt/lessons/blob/main/free_shared.jpg)
+
+Scroll down and make sure M0 Sandbox is selected.  Click "Create Cluster" at the bottom of the screen. 
+
+![M0 Sandbox](https://github.com/loriemoffitt/lessons/blob/main/m0_sandbox.jpg)
+
+Enter an admin user and password and click "Create User".  
+
+![Create Admin User](https://github.com/loriemoffitt/lessons/blob/main/create_admin_user.jpg)
+
+Your ip address should already be in the list so you can click "Finish and Close" button at the bottom. 
+
+Now, click the ellipses (...) in the middle of the screen to see the drop down menu and select "Load Sample Dataset". 
+
+![Load Sample Dataset](https://github.com/loriemoffitt/lessons/blob/main/load_sample_data.jpg)
+
+Click the button to load the sample data. 
+
+![Load Data](https://github.com/loriemoffitt/lessons/blob/main/load_dataset.jpg)
+
+Verify that the sample dataset is loaded by clicking on the "Collections" tab in the center of the screen and browsing the collections. 
+
+![Verify Data](https://github.com/loriemoffitt/lessons/blob/main/verify_data.jpg)
+
+You are now ready to connect to your data base with a Java application. 
+[Click here for the next tutorial](Connect-to-MongoDB-with-Java)
