@@ -8,7 +8,7 @@ author: Lorie Moffitt
 ---
 Create new account for Mongo DB
 
-![Create Account](/homepage/assets/create_account.jpg)
+![Create Account](/homepage/assets/images/create_account.jpg)
 
 After creating your account and verifying your email address, log into MongoDB.
 
