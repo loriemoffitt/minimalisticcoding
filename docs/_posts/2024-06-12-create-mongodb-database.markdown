@@ -6,7 +6,7 @@ categories: homepage
 permalink: /2024/06/12/create_mongodb_database.html
 author: Lorie Moffitt
 ---
-[Create new account for Mongo DB here](https://account.mongodb.com/account/register)
+First you will need to [Create new MongoDB account or sign in with existing account here.](https://account.mongodb.com/account/register)
 
 After creating your account and verifying your email address, log into MongoDB.
 
