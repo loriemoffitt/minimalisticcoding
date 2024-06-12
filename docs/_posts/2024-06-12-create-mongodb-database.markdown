@@ -8,7 +8,7 @@ author: Lorie Moffitt
 ---
 Create new account for Mongo DB
 
-![Create Account](https://github.com/loriemoffitt/lessons/blob/main/create_account.jpg)
+![Create Account](/images/create_account.jpg)
 
 After creating your account and verifying your email address, log into MongoDB.
 
