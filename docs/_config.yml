@@ -29,9 +29,8 @@ url: "https://loriemoffitt.github.io" # the base hostname & protocol for your si
 github_username:  loriemoffitt
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-remote-theme 
   - jekyll-feed
 
 # Exclude from processing.
