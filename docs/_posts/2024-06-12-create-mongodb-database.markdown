@@ -6,13 +6,9 @@ categories: homepage
 permalink: /2024/06/12/create_mongodb_database.html
 author: Lorie Moffitt
 ---
-Create new account for Mongo DB here: [Create new MongoDB account](https://account.mongodb.com/account/register)
-
-![Create Account](/homepage/assets/images/create_account.jpg)
+[Create new account for Mongo DB here](https://account.mongodb.com/account/register)
 
 After creating your account and verifying your email address, log into MongoDB.
-
-![Login to MongoDB](https://github.com/loriemoffitt/lessons/blob/main/login.jpg)
 
 After logging in you will see the screen below, lets create a new cluster by clicking the "Create Cluster" button in the middle of the screen. 
 
