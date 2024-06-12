@@ -29,7 +29,7 @@ url: "https://loriemoffitt.github.io/homepage/" # the base hostname & protocol f
 github_username:  loriemoffitt
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
