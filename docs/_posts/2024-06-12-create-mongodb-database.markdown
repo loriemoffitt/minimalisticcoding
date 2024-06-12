@@ -6,7 +6,7 @@ categories: homepage
 permalink: /2024/06/11/welcome-to-jekyll.html
 author: Lorie Moffitt
 ---
-Create new account for Mongo DB
+Create new account for Mongo DB here: [Create new MongoDB account](https://account.mongodb.com/account/register)
 
 ![Create Account](/homepage/assets/images/create_account.jpg)
 
