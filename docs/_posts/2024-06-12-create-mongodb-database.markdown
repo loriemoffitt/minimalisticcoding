@@ -12,7 +12,7 @@ After creating your account and verifying your email address, log into MongoDB.
 
 After logging in you will see the screen below, lets create a new cluster by clicking the "Create Cluster" button in the middle of the screen. 
 
-![Create a Cluster](/assets/images/create_cluster.jpg)
+![Create a Cluster](/homepage/assets/images/create_cluster.jpg)
 
 Select Advanced Configuration at the bottom of the screen.
 
