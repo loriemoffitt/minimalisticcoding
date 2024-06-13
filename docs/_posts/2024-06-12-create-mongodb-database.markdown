@@ -16,15 +16,15 @@ After logging in you will see the screen below, lets create a new cluster by cli
   
 Select Advanced Configuration at the bottom of the screen.
 
-![Advanced Config](https://github.com/loriemoffitt/lessons/blob/main/advanced_config2.jpg)
+![Advanced Config](/homepage/assets/images/advanced_config2.jpg)
 
 Next select the free Shared button at the top.
 
-![Free Shared](https://github.com/loriemoffitt/lessons/blob/main/free_shared.jpg)
+![Free Shared](/homepage/assets/images/free_shared.jpg)
 
 Scroll down and make sure M0 Sandbox is selected.  Click "Create Cluster" at the bottom of the screen. 
 
-![M0 Sandbox](https://github.com/loriemoffitt/lessons/blob/main/m0_sandbox.jpg)
+![M0 Sandbox](/homepage/assets/images/m0_sandbox.jpg)
 
 Enter an admin user and password and click "Create User".  
 
