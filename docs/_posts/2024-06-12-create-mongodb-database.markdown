@@ -7,8 +7,11 @@ permalink: /2024/06/12/create_mongodb_database.html
 author: Lorie Moffitt
 tags: MongoDB
 ---
+<p align="center" width="100%">
+    <img width="90%" src="/homepage/assets/images/mongodb_logo.jpg">
+</p>
 ---
-Today we am working on creating a new MongoDB database. Later we will connect to this database with a Java Application, but for this lesson we will focus just on creating the new database. 
+Today we are working on creating a new MongoDB database to use with our Java Application that we will set up in a later blog post. For this lesson we will assume you are brand new to MongoDB. 
 
 ## Create your MongoDB account and login
 
