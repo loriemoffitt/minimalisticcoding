@@ -30,23 +30,23 @@ After logging in you will see the screen below, lets create a free cluster by cl
 Select the Advanced Configuration button at the bottom of the screen.
 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/advanced_config2.jpg">
+    <img width="70%" src="/homepage/assets/images/advanced_config2.jpg">
 </p>
 
 Next select the free Shared button at the top.
 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/free_shared.jpg">
+    <img width="70%" src="/homepage/assets/images/free_shared.jpg">
 </p>
 
 Scroll down and make sure M0 Sandbox is selected.  Click "Create Cluster" at the bottom of the screen. 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/m0_sandbox.jpg">
+    <img width="70%" src="/homepage/assets/images/m0_sandbox.jpg">
 </p>
 
 Enter an admin user and password and click "Create User".  
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/create_admin.jpg">
+    <img width="70%" src="/homepage/assets/images/create_admin.jpg">
 </p>
 
 Your ip address should already be in the list so you can click "Finish and Close" button at the bottom. 
@@ -55,17 +55,17 @@ Your ip address should already be in the list so you can click "Finish and Close
 
 Now, click the ellipses (...) in the middle of the screen to see the drop down menu and select "Load Sample Dataset". 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/load_sample_data.jpg">
+    <img width="70%" src="/homepage/assets/images/load_sample_data.jpg">
 </p>
 
 Click the button to load the sample data. 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/load_dataset.jpg">
+    <img width="70%" src="/homepage/assets/images/load_dataset.jpg">
 </p>
 
 Verify that the sample dataset is loaded by clicking on the "Collections" tab in the center of the screen and browsing the collections. 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/verify_data.jpg">
+    <img width="70%" src="/homepage/assets/images/verify_data.jpg">
 </p>
 
 
