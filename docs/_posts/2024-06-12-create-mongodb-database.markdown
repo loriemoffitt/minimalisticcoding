@@ -66,5 +66,5 @@ Verify that the sample dataset is loaded by clicking on the "Collections" tab in
 </p>
 
 
-You are now ready to connect to your data base with a Java application!
+You are now ready to connect to your new MongoDB database with a Java application!
 [Click here for the next tutorial](Connect-to-MongoDB-with-Java)
