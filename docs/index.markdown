@@ -4,6 +4,7 @@
 
 layout: default
 ---
+<h2>Tutorials</h2>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,7 +12,7 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-<h1>Publications</h1>
+<h2>Publications</h2>
 <ul>
   <li>
     <a href="https://switchthefuture.com/2018/08/01/3-moves-that-will-help-you-hire-women-in-stem/">3 Moves That Will Help You Hire Women in STEM</a>
@@ -30,7 +31,7 @@ layout: default
   </li>
 </ul>
 
-<h1>Examples</h1>
+<h2>Examples</h2>
 <ul>
   <li>
     <a href="https://github.com/loriemoffitt/MongoDBJavaExample">MongoDB Java Example</a>
