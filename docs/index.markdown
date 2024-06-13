@@ -11,7 +11,7 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-<h2>Publications</h2>
+<h1>Publications</h1>
 <ul>
   <li>
     <a href="https://switchthefuture.com/2018/08/01/3-moves-that-will-help-you-hire-women-in-stem/">3 Moves That Will Help You Hire Women in STEM</a>
@@ -30,7 +30,7 @@ layout: default
   </li>
 </ul>
 
-<h2>Examples</h2>
+<h1>Examples</h1>
 <ul>
   <li>
     <a href="https://github.com/loriemoffitt/MongoDBJavaExample">MongoDB Java Example</a>
