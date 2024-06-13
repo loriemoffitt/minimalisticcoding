@@ -6,7 +6,7 @@ categories: homepage
 author: Lorie Moffitt
 tags: MongoDb, Java
 ---
-
+---
 <h1>Create Maven Java Project in IntelliJ</h1>
 Create a new Java Project in IntelliJ and use Maven Archetype. You can also change your GroupId to set your package structure. 
 
@@ -31,7 +31,8 @@ Locate the pom.xml file and add the MongoDB dependency to your list of dependenc
 After editing your pom.xml you need to reload your maven project.  If the Maven window is not visible, click the Maven tab on the far right of the screen (highlighted below). Next refresh the Maven project by clicking the refresh button (highlighted below). 
 
 <p align="center" width="100%">
-    <img width="50%" src="/homepage/assets/images/maven_tab.jpg"><img width="50%" src="/homepage/assets/images/reload_maven.jpg">
+    <img width="50%" src="/homepage/assets/images/maven_tab.jpg"><img style="vertical-align:top" 
+ width="50%" src="/homepage/assets/images/reload_maven.jpg">
 </p>
 
 <h1>Create the Connection class</h1>
