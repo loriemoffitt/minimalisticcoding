@@ -31,6 +31,24 @@ layout: default
   </li>
 </ul>
 
+<h2>Notes from Live Training Sessions</h2>
+<ul>
+  <li>
+    <a href="https://github.com/loriemoffitt/lessons/wiki/Java-OOP-Concepts">Java OOP Concepts</a>
+  </li>
+  <li>
+    <a href="https://github.com/loriemoffitt/lessons/wiki/Java-Debugging-with-IntelliJ">Java Debugging with IntelliJ</a>
+  </li>
+  <li>
+    <a href="https://github.com/loriemoffitt/lessons/wiki/Working-with-Relational-Data-in-SQL">Working with Relational Data in SQL</a>
+  </li>
+<li>
+  <a href="https://github.com/loriemoffitt/lessons/wiki/Efficient-Programming">Efficient Programming Tips</a>
+</li>
+  <li>
+    <a href="https://github.com/loriemoffitt/lessons/wiki/Essential-Diagrams-for-Software-Programmers">Essential Diagram for Software Programmers</a>
+  </li>
+</ul>
 <h2>Examples</h2>
 <ul>
   <li>
