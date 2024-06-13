@@ -28,7 +28,7 @@ Scroll down and make sure M0 Sandbox is selected.  Click "Create Cluster" at the
 
 Enter an admin user and password and click "Create User".  
 
-![Create Admin User](https://github.com/loriemoffitt/lessons/blob/main/create_admin_user.jpg)
+![Create Admin User](/homepage/assets/images/create_admin_user.jpg)
 
 Your ip address should already be in the list so you can click "Finish and Close" button at the bottom. 
 
