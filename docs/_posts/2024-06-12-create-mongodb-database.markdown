@@ -6,45 +6,65 @@ categories: homepage
 permalink: /2024/06/12/create_mongodb_database.html
 author: Lorie Moffitt
 ---
+Today we am working on creating a new MongoDB database. Later we will connect to this database with a Java Application, but for this lesson we will focus just on creating the new database. 
+
+## Create your MongoDB account and login
+---
 First you will need to [Create new MongoDB account or sign in with existing account here.](https://account.mongodb.com/account/register)
 
-After creating your account and verifying your email address, log into MongoDB.
+After creating your account and verifying your email address, log into [MongoDB Atlas](https://cloud.mongodb.com).
 
-After logging in you will see the screen below, lets create a new cluster by clicking the "Create Cluster" button in the middle of the screen. 
+
+## Create and Deploy your free MongoDB cluster
+---
+After logging in you will see the screen below, lets create a free cluster by clicking the green "Create" button in the middle of the screen. 
 
 <p align="center" width="100%">
     <img width="33%" src="/homepage/assets/images/create_cluster.jpg">
 </p>
 
-Select Advanced Configuration at the bottom of the screen.
+Select the Advanced Configuration button at the bottom of the screen.
 
-![Advanced Config](/homepage/assets/images/advanced_config2.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/advanced_config2.jpg">
+</p>
 
 Next select the free Shared button at the top.
 
-![Free Shared](/homepage/assets/images/free_shared.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/free_shared.jpg">
+</p>
 
 Scroll down and make sure M0 Sandbox is selected.  Click "Create Cluster" at the bottom of the screen. 
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/m0_sandbox.jpg">
+</p>
 
-![M0 Sandbox](/homepage/assets/images/m0_sandbox.jpg)
 
 Enter an admin user and password and click "Create User".  
-
-![Create Admin User](/homepage/assets/images/create_admin_user.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/create_admin.jpg">
+</p>
 
 Your ip address should already be in the list so you can click "Finish and Close" button at the bottom. 
 
+## Load Sample Dataset
+---
 Now, click the ellipses (...) in the middle of the screen to see the drop down menu and select "Load Sample Dataset". 
-
-![Load Sample Dataset](https://github.com/loriemoffitt/lessons/blob/main/load_sample_data.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/load_sample_data.jpg">
+</p>
 
 Click the button to load the sample data. 
-
-![Load Data](https://github.com/loriemoffitt/lessons/blob/main/load_dataset.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/load_dataset.jpg">
+</p>
 
 Verify that the sample dataset is loaded by clicking on the "Collections" tab in the center of the screen and browsing the collections. 
+<p align="center" width="100%">
+    <img width="33%" src="/homepage/assets/images/verify_data.jpg">
+</p>
 
-![Verify Data](https://github.com/loriemoffitt/lessons/blob/main/verify_data.jpg)
 
 You are now ready to connect to your data base with a Java application. 
 [Click here for the next tutorial](Connect-to-MongoDB-with-Java)
