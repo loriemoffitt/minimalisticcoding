@@ -20,7 +20,7 @@ After creating your account and verifying your email address, log into [MongoDB 
 After logging in you will see the screen below, lets create a free cluster by clicking the green "Create" button in the middle of the screen. 
 
 <p align="center" width="100%">
-    <img width="33%" src="/homepage/assets/images/create_cluster.jpg">
+    <img width="50%" src="/homepage/assets/images/create_cluster.jpg" onMouseOver="this.width='100%'" onMouseOut"this.width='50%'">
 </p>
 
 Select the Advanced Configuration button at the bottom of the screen.
