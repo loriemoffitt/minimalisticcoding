@@ -58,10 +58,7 @@ Now, click the ellipses (...) in the middle of the screen to see the drop down m
     <img width="70%" src="/homepage/assets/images/load_sample_data.jpg">
 </p>
 
-Click the button to load the sample data. 
-<p align="center" width="100%">
-    <img width="70%" src="/homepage/assets/images/load_dataset.jpg">
-</p>
+Click the "Load Sample Dataset" button in the popup to load the sample data. 
 
 Verify that the sample dataset is loaded by clicking on the "Collections" tab in the center of the screen and browsing the collections. 
 <p align="center" width="100%">
