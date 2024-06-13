@@ -7,11 +7,10 @@ permalink: /2024/06/12/create_mongodb_database.html
 author: Lorie Moffitt
 tags: MongoDB
 ---
----
 <p align="center" width="100%">
-    <img width="50%" src="/homepage/assets/images/mongodb_logo.jpg">
+    <img width="75%" src="/homepage/assets/images/mongodb_logo.jpg">
 </p>
-
+---
 Today we are working on creating a new MongoDB database to use with our Java Application that we will set up in a later blog post. For this lesson we will assume you are brand new to MongoDB. 
 
 ## Create your MongoDB account and login
@@ -25,7 +24,7 @@ After creating your account and verifying your email address, log into [MongoDB 
 After logging in you will see the screen below, lets create a free cluster by clicking the green "Create" button in the middle of the screen. 
 
 <p align="center" width="100%">
-    <img width="90%" src="/homepage/assets/images/create_cluster.jpg">
+    <img width="70%" src="/homepage/assets/images/create_cluster.jpg">
 </p>
 
 Select the Advanced Configuration button at the bottom of the screen.
