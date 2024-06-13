@@ -19,7 +19,6 @@ First you will need to [Create new MongoDB account or sign in with existing acco
 
 After creating your account and verifying your email address, log into [MongoDB Atlas](https://cloud.mongodb.com).
 
-
 ## Create and Deploy your free MongoDB cluster
 
 After logging in you will see the screen below, lets create a free cluster by clicking the green "Create" button in the middle of the screen. 
