@@ -42,3 +42,17 @@ if (!response.ok)
 
 
 ```
+
+If there are no errors you can process the json response and then return a new Json object based on the results. 
+
+```
+var returnJson = [];
+
+responseJson.forEach(function(item) {
+    returnJson.ids.push(item.id);
+    returnJson.primarys.push(item);
+};
+return returnJson;
+```
+
+
