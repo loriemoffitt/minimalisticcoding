@@ -9,7 +9,36 @@ tags: NodeJS, Fetch API, URI.js
 ---
 <h1>Using FetchAPI with Node js and URI.js</h1>
 To use URI.js and NodeAPi import the respective files. 
-...
+
+
+
+```
 import URI from "urijs";
 import fetch from "node-fetch";
-...
+```
+
+
+Now you can construct the URI with the URIjs build and buildQuery functions. Notice that the color parameter is an array. 
+
+```
+var uri = URI.build({
+     path: "http://localhost:3000/records",
+     query: URI.buildQuery({
+           limit: 10,
+           "color[]": ["red", "blue"]
+     })
+ });
+```
+
+Now you can call the fetch function from the FetchAPi and pass in the URI created from the URI.js functions. 
+
+```
+const response = await fetch(uri);
+if (response.ok)
+  responseJson = await response.json();
+
+if (!response.ok) 
+ console.log("Error in response");
+
+
+```
