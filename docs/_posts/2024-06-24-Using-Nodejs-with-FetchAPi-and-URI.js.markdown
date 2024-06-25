@@ -1,1 +1,15 @@
-
+---
+layout: post
+title: "Node JS with Fetch API and URI.js"
+date: 2024-06-24 00:54:09 -0400
+categories: homepage
+author: Lorie Moffitt
+tags: NodeJS, Fetch API, URI.js
+---
+---
+<h1>Using FetchAPI with Node js and URI.js</h1>
+To use URI.js and NodeAPi import the respective files. 
+...
+import URI from "urijs";
+import fetch from "node-fetch";
+...
