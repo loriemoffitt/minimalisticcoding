@@ -17,7 +17,7 @@ layout: default
   <li>Java Variables and Types Exercises</li>
   
   <li>Java Decision Exercises</li>
-  <ul><li><a href="docs/java_exercises/decisions/Exercise01.java">Exercise01</a></li></ul>
+  <ul><li><a href="/java_exercises/decisions/Exercise01.java">Exercise01</a></li></ul>
 </ul>
 <h2>Publications</h2>
 <ul>
