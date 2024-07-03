@@ -12,6 +12,11 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+<h2>Exercises</h2>
+<ul>
+  <li>Java Variables and Types Exercises</li>
+  <li>Java Decision Exercises</li>
+</ul>
 <h2>Publications</h2>
 <ul>
   <li>
