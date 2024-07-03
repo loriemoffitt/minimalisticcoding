@@ -49,7 +49,7 @@ layout: default
     <a href="https://github.com/loriemoffitt/lessons/wiki/Essential-Diagrams-for-Software-Programmers">Essential Diagram for Software Programmers</a>
   </li>
 </ul>
-<h2>Examples</h2>
+<h2>Examples </h2>
 <ul>
   <li>
     <a href="https://github.com/loriemoffitt/MongoDBJavaExample">MongoDB Java Example</a>
