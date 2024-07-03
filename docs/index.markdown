@@ -14,7 +14,7 @@ layout: default
 </ul>
 <h2>Exercises</h2>
 <ul> 
-  <li><a href="{{ site.baseurl }}"/docs/java_exercises/variables_and_types/>Java Variables and Types Exercises</a></li>
+  <li><a href="homepage/docs/java_exercises/variables_and_types/">Java Variables and Types Exercises</a></li>
   <li>Java Decision Exercises</li>
 </ul>
 <h2>Publications</h2>
