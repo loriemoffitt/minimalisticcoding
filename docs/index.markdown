@@ -13,7 +13,7 @@ layout: default
   {% endfor %}
 </ul>
 <h2>Exercises</h2>
-<ul>
+<ul> 
   <li><a href="{{ site.baseurl }}"/docs/java_exercises/variables_and_types/>Java Variables and Types Exercises</a></li>
   <li>Java Decision Exercises</li>
 </ul>
