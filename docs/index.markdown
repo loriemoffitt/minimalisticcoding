@@ -14,8 +14,10 @@ layout: default
 </ul>
 <h2>Exercises</h2>
 <ul> 
-  <li><a href="/tree/main/docs/java_exercises/variables_and_types">Java Variables and Types Exercises</a></li>
-  <li><a href="/tree/main/docs/java_exercises/decisions/">Java Decision Exercises</a></li>
+  <li>Java Variables and Types Exercises</li>
+  
+  <li>Java Decision Exercises</li>
+  <ul><li><a href="docs/java_exercises/decisions/Exercise01.java">Exercise01</a></li></ul>
 </ul>
 <h2>Publications</h2>
 <ul>
