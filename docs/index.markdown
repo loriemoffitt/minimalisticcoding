@@ -17,7 +17,7 @@ layout: default
   <li>Java Variables and Types Exercises</li>
   
   <li>Java Decision Exercises</li>
-  <ul><li> <a href="https://github.com/loriemoffitt/homepage/docs/java_exercises/decisions/Exercise01.java">Exercise01.java</a>
+  <ul><li> <a href="https://github.com/loriemoffitt/homepage/docs/java_exercises/decisions/Exercise01.java">Exercise01.java</a></li>
 </ul>
 <h2>Publications</h2>
 <ul>
