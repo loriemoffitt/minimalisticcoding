@@ -18,7 +18,7 @@ layout: default
   
   <li>Java Decision Exercises</li>
   <ul><li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise01.java">Exercise01.java</a></li>
-</ul>
+</ul></ul>
 <h2>Publications</h2>
 <ul>
   <li>
