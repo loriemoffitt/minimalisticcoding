@@ -19,13 +19,16 @@ layout: default
   <li>Java Decision Exercises</li>
   <ul><li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise01.java">Exercise01.java</a></li>
 </ul></ul>
+<h2>Presentations</h2>
+<ul>
+  <li>
+    <a href="https://dl.acm.org/doi/10.5555/771322.771371">Teaching e-business with Enterprise JavaBeans</a>
+  </li>
+</ul>
 <h2>Publications</h2>
 <ul>
   <li>
     <a href="https://switchthefuture.com/2018/08/01/3-moves-that-will-help-you-hire-women-in-stem/">3 Moves That Will Help You Hire Women in STEM</a>
-  </li>
-  <li>
-    <a href="https://dl.acm.org/doi/10.5555/771322.771371">Teaching e-business with Enterprise JavaBeans</a>
   </li>
   <li>
     <a href="https://dl.acm.org/doi/10.5555/771322.771352">Degree or certification: what do faculty think?</a>
