@@ -29,6 +29,13 @@ layout: default
     <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise04.java">Exercise04.java</a></li>
     <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise05.java">Exercise05.java</a></li>
     <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise06.java">Exercise06.java</a></li>
+</ul>
+<li>Java Repetition Exercises</li>
+<ul>
+  <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise01.java">Exercise01.java</a></li>  
+  <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise02.java">Exercise02.java</a></li>
+  <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise03.java">Exercise03.java</a></li>  
+  
 </ul></ul>
 <h2>Presentations</h2>
 <ul>
