@@ -19,13 +19,9 @@ layout: default
     
   <li><a href="./java_exercises/decisions/">Java Decision Exercises</a></li>
 
-<li>Java Repetition Exercises</li>
-<ul>
-  <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise01.java">Exercise01.java</a></li>  
-  <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise02.java">Exercise02.java</a></li>
-  <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise03.java">Exercise03.java</a></li>  
-  
-</ul></ul>
+<li><a href="./java_exercises/repetition/">Java Repetition Exercises</a></li>
+<li><a href="./java_exercises/arrays/">Java Array Exercises</a></li>
+</ul>
 <h2>Presentations</h2>
 <ul>
   <li>
