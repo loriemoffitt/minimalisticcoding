@@ -17,15 +17,8 @@ layout: default
   <li><a href="./java_exercises/variables_and_types/">Java Variables and Types Exercises</a></li>
 
     
-  <li>Java Decision Exercises</li>
-  <ul>
-    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise01.java">Exercise01.java</a></li>
-    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise02.java">Exercise02.java</a></li>
-    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise03.java">Exercise03.java</a></li>
-    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise04.java">Exercise04.java</a></li>
-    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise05.java">Exercise05.java</a></li>
-    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/decisions/Exercise06.java">Exercise06.java</a></li>
-</ul>
+  <li><a href="./java_exercises/decisions/">Java Decision Exercises</a></li>
+
 <li>Java Repetition Exercises</li>
 <ul>
   <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/repetition/Exercise01.java">Exercise01.java</a></li>  
