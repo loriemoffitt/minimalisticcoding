@@ -1,3 +1,5 @@
+<h2>Java Arrays</h2>
+
 <h2>Array Exercises</h2>
   <ul>
     <li> <a href="./Exercise01.java">Exercise01.java</a></li>
