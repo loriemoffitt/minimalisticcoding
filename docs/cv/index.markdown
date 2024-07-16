@@ -1,6 +1,7 @@
 
 <h2>LORIE MOFFITT</h2>
 Kingsport, TN | 423-299-4014 | <a href="mailto:loriemoffitt@gmail.com">loriemoffitt@gmail.com</a>
+
 <a href="">LinkedIn</a> | <a href="">Personal Site</a> | <a href="">GitHub</a>
 
 <h1>PROFESSIONAL SUMMARY</h1>
