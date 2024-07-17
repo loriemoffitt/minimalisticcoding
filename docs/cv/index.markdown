@@ -49,6 +49,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Review and analyze test cases and requirements for automation feasibility.</li>
 <li>Developed and maintained a common Java test automation framework integrated with Rational Functional Tester (RFT).</li>
 <li>Enhanced existing course materials and facilitated student learning by developing torials.</li>
+</ul>
 
 <b>JDA Software (formerly RedPrairie)</b>
 
@@ -59,7 +60,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Protected the company’s market share by monitoring industry and competitive considerations and developing strategic plans to preempt any negative impact on company sales.</li>
 <li>Successfully maintained the company’s leading software position by continuing studies of latest technologies and determining which would best fit into future product innovation.</li>
 <li>Ensured successful program launch from beta release phases including user training.</li>
-
+</ul>
 <b>CGI</b>
 
 <i>Senior Software Consultant / January 2007-December 2011</i>
