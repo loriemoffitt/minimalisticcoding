@@ -16,11 +16,35 @@ And we can access each value of the array using the index number.
 To explicitly assign values to an array we use the index number to assign the value. We must also define the size of the array.
 
 
-`String[] favoriteFoods = new String[10];`
+```
+String[] favoriteFoods = new String[10];
 
-`favoriteFoods[0] = "Pizza";`
+favoriteFoods[0] = "Pizza";
 
-`favoriteFoods[1] = "Meatloaf";`
+favoriteFoods[1] = "Meatloaf";
+```
+
+
+If you try to access an index outside of the size of the array you will get an IndexOutOfBoundsException. 
+
+Looping thru an array is a common task and can be done with a for loop or a for-each loop. 
+
+Looping thru an array with For loop: 
+```
+String[] cars = { "Toyota", "Dodge", "Ford", "BMW" };
+
+for (int i=0; i < cars.length; i++) {
+   System.out.println(cars[i]);
+}
+```
+Looping thru an array with For-each loop:
+```
+for (String i: cars) {
+   System.out.println(i);
+}
+```
+Create a String array containing 10 names.  Loop thru the array to print out each name.  
+Create an integer array containing 10 ages, loop thru the array to calculate the total of all the ages and then find the average age.  
 
 
 <h2>Array Exercises</h2>
