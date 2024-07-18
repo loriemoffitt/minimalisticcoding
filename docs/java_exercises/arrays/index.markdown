@@ -45,10 +45,10 @@ Create an integer array containing 10 ages, loop thru the array to calculate the
 
 <h2>Array Exercises</h2>
   <ul>
-    <li> <a href="./Exercise01.java">Exercise01.java</a></li>
-<li> <a href="./Exercise02.java">Exercise02.java</a></li>   
-    <li> <a href="./Exercise03.java">Exercise03.java</a></li>
-    <li> <a href="./Exercise04.java">Exercise04.java</a></li>
-    <li> <a href="./Exercise05.java">Exercise05.java</a></li>
-    <li> <a href="./Exercise06.java">Exercise06.java</a></li>
+    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/arrays/Exercise01.java">Exercise01.java</a></li>
+<li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/arrays/Exercise02.java">Exercise02.java</a></li>   
+    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/arrays/Exercise03.java">Exercise03.java</a></li>
+    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/arrays/Exercise04.java">Exercise04.java</a></li>
+    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/arrays/Exercise05.java">Exercise05.java</a></li>
+    <li> <a href="https://github.com/loriemoffitt/homepage/blob/main/docs/java_exercises/arrays/Exercise06.java">Exercise06.java</a></li>
   </ul>
