@@ -105,11 +105,9 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <h2>EDUCATION</h2>
 
 <b>Bachelor of Science/ Spring 1997</b>
-
 <i>East Tennessee State University</i>
 
 <b>Master of Science/ Winter 1999</b>
-
 <i>North Carolina State University</i>
 
 <h2>REFERENCES</h2>
