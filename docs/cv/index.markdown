@@ -23,16 +23,15 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Guided cohorts through intensive full-time Java development boot-camp, whilst overseeing curriculum development, remote classroom management, and student mentoring.</li>
 <li>Ensured achievement of learning objectives, whilst covering topics, such as Git, Object-Oriented Concepts, Java programming, JUnit testing, MVC pattern, Dependency Injection (DI), Spring framework, Docker, MySQL, React, and Web Application security.</li>
 </ul>
-
 <b>JVZoo</b>
+
 <i>Senior Software Developer / April 2017-August 2021</i>
 <ul>
 <li>Designed, implemented, and optimized SQL queries for MySQL databases. </li>
-<li></li>Managed configuration and maintenance of diverse development and production environments. </li>
+<li>Managed configuration and maintenance of diverse development and production environments. </li>
 <li>Engineered Object-Oriented PHP solutions for backend processes, while also crafting TWIG files utilizing Bootstrap, NodeJS, and jQuery for frontend functionalities.</li>
-<li>>Directed full-stack development operations, leveraging Continuous Integration (CI), Amazon Web Services (AWS), GitHub, Ansible, and Symfony. </li>
+<li>Directed full-stack development operations, leveraging Continuous Integration (CI), Amazon Web Services (AWS), GitHub, Ansible, and Symfony. </li>
 </ul>
-
 <b>Virginia Highlands Community College</b>
 
 <i>Adjunct Professor / Jan 2011-Jan 2020</i>
@@ -40,8 +39,8 @@ Team and Project Management | Process Analysis | Technical Education & Training 
   <li>Enhanced existing course materials and facilitated student learning by developing supplementary tutorials.</li>
   <li>Cultivated culture of technical proficiency by delivering courses in Java programming, database management, client/server scripting, and Microsoft Office applications.</li>
 </ul>
-
 <b>US Department of Veterans Affairs</b>
+
 <i>Automation Engineer / January 2015-January 2017</i>
 <ul>
 <li>Responsible for developing and supporting enterprise test automation frameworks in Java.</li>
@@ -50,7 +49,6 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Developed and maintained a common Java test automation framework integrated with Rational Functional Tester (RFT).</li>
 <li>Enhanced existing course materials and facilitated student learning by developing torials.</li>
 </ul>
-
 <b>JDA Software (formerly RedPrairie)</b>
 
 <i>Senior Software Developer / January 2012-January 2015</i>
@@ -69,7 +67,6 @@ Team and Project Management | Process Analysis | Technical Education & Training 
   <li>Managed complex XSLT transformations while supporting data integration between two systems.</li>
   <li>Drove successful technical upgrades converting C++ to C#.</li>
 </ul>
-
 <b>TopCoder</b>
 
 <i>Project Manager / January 2005-January 2007</i>
@@ -80,7 +77,6 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Created extensive documentation for entire software lifecycle. </li>
 <li>Implemented J2EE with Oracle systems.</li>
 </ul>
-
 <b>East Tennessee State University</b>
 
 <i>Assistant Professor / January 2002-December 2004</i>
@@ -90,8 +86,6 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Managed the University’s programming content including presenting a paper on e-business.</li>
 <li>Strengthened course curriculum based on career best practices.</li>
 </ul>
-
-
 <b>Coastal Carolina University</b>
 
 <i>Assistant Professor / January 1999-January 2002</i>
