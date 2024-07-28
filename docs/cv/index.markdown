@@ -17,14 +17,14 @@ Team and Project Management | Process Analysis | Technical Education & Training 
   <li>Developed and implemented creative learning plans for students of various ages and skill levels to facilitate technical as well as interpersonal skills.</li>
 </ul>
 <b>Dev10/Genesis10</b>
-
+<br>
 <i>Lead Java Instructor / September 2021-April 2023</i>
 <ul>
 <li>Guided cohorts through intensive full-time Java development boot-camp, whilst overseeing curriculum development, remote classroom management, and student mentoring.</li>
 <li>Ensured achievement of learning objectives, whilst covering topics, such as Git, Object-Oriented Concepts, Java programming, JUnit testing, MVC pattern, Dependency Injection (DI), Spring framework, Docker, MySQL, React, and Web Application security.</li>
 </ul>
 <b>JVZoo</b>
-
+<br>
 <i>Senior Software Developer / April 2017-August 2021</i>
 <ul>
 <li>Designed, implemented, and optimized SQL queries for MySQL databases. </li>
@@ -33,14 +33,14 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Directed full-stack development operations, leveraging Continuous Integration (CI), Amazon Web Services (AWS), GitHub, Ansible, and Symfony. </li>
 </ul>
 <b>Virginia Highlands Community College</b>
-
+<br>
 <i>Adjunct Professor / Jan 2011-Jan 2020</i>
 <ul>
   <li>Enhanced existing course materials and facilitated student learning by developing supplementary tutorials.</li>
   <li>Cultivated culture of technical proficiency by delivering courses in Java programming, database management, client/server scripting, and Microsoft Office applications.</li>
 </ul>
 <b>US Department of Veterans Affairs</b>
-
+<br>
 <i>Automation Engineer / January 2015-January 2017</i>
 <ul>
 <li>Responsible for developing and supporting enterprise test automation frameworks in Java.</li>
@@ -50,7 +50,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Enhanced existing course materials and facilitated student learning by developing torials.</li>
 </ul>
 <b>JDA Software (formerly RedPrairie)</b>
-
+<br>
 <i>Senior Software Developer / January 2012-January 2015</i>
 <ul>
 <li>Managed J2EE software design and implementation for a leading warehouse management software provider.</li>
@@ -60,7 +60,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Ensured successful program launch from beta release phases including user training.</li>
 </ul>
 <b>CGI</b>
-
+<br>
 <i>Senior Software Consultant / January 2007-December 2011</i>
 <ul>
   <li>Supervised the software development lifecycle for .NET and Java projects.</li>
@@ -68,7 +68,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
   <li>Drove successful technical upgrades converting C++ to C#.</li>
 </ul>
 <b>TopCoder</b>
-
+<br>
 <i>Project Manager / January 2005-January 2007</i>
 <ul>
 <li>Collaborated with TopCoder software clients to develop technical specifications that align with business needs.</li>
@@ -78,7 +78,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Implemented J2EE with Oracle systems.</li>
 </ul>
 <b>East Tennessee State University</b>
-
+<br>
 <i>Assistant Professor / January 2002-December 2004</i>
 <ul>
 <li>Cultivated strong understanding of web design, database system, and advanced Java/J2EE web programming best practices.</li>
@@ -87,7 +87,7 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Strengthened course curriculum based on career best practices.</li>
 </ul>
 <b>Coastal Carolina University</b>
-
+<br>
 <i>Assistant Professor / January 1999-January 2002</i>
 <ul>
 <li>Taught database and web development courses.</li>
@@ -96,30 +96,38 @@ Team and Project Management | Process Analysis | Technical Education & Training 
 <li>Attended faculty meetings to plan and deliver curricula and instruction consistent with educational goals.</li>
 </ul>
 
-<h2>EDUCATION</h2>
+<h1>EDUCATION</h1>
 
-<b>Bachelor of Science/ Spring 1997</b>
-<i>East Tennessee State University</i>
+<b>East Tennessee State University</b>
+<br>
+<i>Bachelor of Science, Computer Science/Spring 1997</i>
 
-<b>Master of Science/ Winter 1999</b>
-<i>North Carolina State University</i>
+<b>North Carolina State University</b>
+<br>
+<i>Master of Science, Computer Science/Winter 1999</i>
 
-<h2>REFERENCES</h2>
 
-<b>Kevin Howren / 832-651-6031</b>
-<i>Head of Client Technologies, JvZoo</i>
+<h1>REFERENCES</h1>
 
-<b>Edward Tkacz / 843-424-8000</b>
-<i>CEO, Tkacz Engineering</i>
+<b>Kevin Howren</b>
+<br>
+<i>Head of Client Technologies, JvZoo/832-651-6031</i>
 
-<b>Chad Casselman / 843-222-2958</b>
-<i>CTO, JvZoo</i>
+<b>Edward Tkacz</b>
+<br>
+<i>CEO, Tkacz Engineering/843-424-8000</i>
 
-<b>Dave Kidd / 208-523-8570</b>
-<i>Lead Instructor, Dev10</i>
+<b>Chad Casselman</b>
+<br>
+<i>CTO, JvZoo/843-222-2958</i>
 
-<b>Terry Countermine / counter@etsu.edu</b>
-<i>Department of Computer Science Chair, ETSU</i>
+<b>Dave Kidd</b>
+<br>
+<i>Lead Instructor, Dev10/208-523-8570</i>
+
+<b>Terry Countermine</b>
+<br>
+<i>Department of Computer Science Chair, ETSU/counter@etsu.edu</i>
 
 
 
