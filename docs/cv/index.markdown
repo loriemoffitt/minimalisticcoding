@@ -10,7 +10,7 @@ A seasoned Software Developer and Instructor, I excel in delivering comprehensiv
 Team and Project Management | Process Analysis | Technical Education & Training | Software Development Solutions Consulting | Testing Frameworks | Technology Research | Programming | Problem Solving | Content Creation | Java J2EE Web Development | NET C# Development | Junit | Docker | Spring | React | CI | PL/SQL | Oracle | Tomcat | JBoss | PHP | MS SQL Server
 <h1>EXPERIENCE</h1>
 <b>Varsity Tutors</b>
-
+<br>
 <i>Java Tutor and Instructor / April 2023-present</i>
 <ul>
 <li>Offer specific training programs to individuals and groups that help them to maintain and improve Java programming skills. </li>
