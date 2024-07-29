@@ -15,10 +15,12 @@ npx create-react-app react-app-name
 ```
 
 Next you will navigate to the `react-app-name` directory and run the `npx start` command.  
-<img src="" />
+<br>
+<img src="/homepage/assets/images/npx-create-react-app.png" />
 
 This will open up a browser window to `localhost:3000`.
-<img src="" />
+<br>
+<img src="/homepage/assets/images/react-localhost.png" />
 
 
 
