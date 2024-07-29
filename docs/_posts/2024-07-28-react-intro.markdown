@@ -8,7 +8,17 @@ tags: React
 ---
 
 <h1>Introduction to React</h1>
-Create your react app with the command below. 
+Create your react app with the command below. This will create the files and directories you need for your new react app. 
+
 ```
 npx create-react-app react-app-name
 ```
+
+Next you will navigate to the `react-app-name` directory and run the `npx start` command.  
+<img src="" />
+
+This will open up a browser window to `localhost:3000`.
+<img src="" />
+
+
+
