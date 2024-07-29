@@ -16,11 +16,12 @@ npx create-react-app react-app-name
 
 Next you will navigate to the `react-app-name` directory and run the `npx start` command.  
 <br>
-<img width="50%" src="/homepage/assets/images/npx-create-react-app.png" />
+<img align="center" width="50%" src="/homepage/assets/images/npx-create-react-app.png" />
 
 This will open up a browser window to `localhost:3000`.
 <br>
 <img width="50%" src="/homepage/assets/images/react-localhost.png" />
+<br>
 Lets now use VSCode to create our first React app.  Lets edit the App.js file that was created by the `npx create-react-app react-app-nae` command.  Open VSCode and navigate to the `react-app-name\src\` and open the App.js file. 
 <br>
 <img width="50%" src="/homepage/assets/images/react-app-js.png" />
