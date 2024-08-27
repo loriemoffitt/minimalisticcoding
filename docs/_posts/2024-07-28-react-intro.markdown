@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Intro to React"
+title: "Creating your first React App"
 date: 2024-07-28 00:54:09 -0400
 categories: homepage
 author: Lorie Moffitt
 tags: React
 ---
 
-<h1>Introduction to React</h1>
+<h1>Creating your first React app\</h1>
 Create your react app with the command below. This will create the files and directories you need for your new react app. 
 
 ```
