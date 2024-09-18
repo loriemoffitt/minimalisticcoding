@@ -7,8 +7,9 @@ type Tx = {
     affiliate: string
     coupon: string
     txn: string
-    status: 'open' | 'settled'
-    amount: string
+    status: string
+    amount: number
+    funnel: string
 }
 ```
 
@@ -16,13 +17,13 @@ type Tx = {
 
 ```
 type TxTotals = {
-   totalSales: string,
-   grossIncome: string, 
-   totalRefunds: string, 
-   grossRefunds: string,
-   refundRate: string,
-   netSales: string, 
-   netIncome: string
+   totalSales: number, 
+   grossIncome: number, 
+   totalRefunds: number, 
+   grossRefunds: number,
+   refundRate: number,
+   netSales: number, 
+   netIncome: number
 }
 ```
 
@@ -33,6 +34,7 @@ type PdAffiliate = {
     affiliate: string,
     sales: string,
     amtPaid: string,
+    date: Date
 }
 ```
 
@@ -40,8 +42,8 @@ type PdAffiliate = {
 
 ```
 type PdAffiliateTotals = {
-  totalSales: string,
-  amountPaid: string, 
+  totalSales: number,
+  amountPaid: number, 
 }
 ```
 
@@ -65,11 +67,11 @@ type Sales = {
 ```
 type SalesTotals = {
   visitors: string, 
-  sales: string, 
-  conversions: string, 
-  perVisitor: string, 
-  perSale: string, 
-  total: string
+  sales: number, 
+  conversions: number, 
+  perVisitor: number, 
+  perSale: number, 
+  total: number
 }
 ```
 
@@ -81,9 +83,9 @@ type PreApprovals = {
     affiliate: string,
     email: string, 
     currMax: string,
-    current: string, 
+    current: number, 
     status: string, 
-    nextDate: Date, 
+    nextDate: Date,
 }
 ```
 
@@ -102,7 +104,7 @@ type PreApprovalFailure = {
 type PreApprovalForecast = {
     product: string
     subscriptions: number
-    total: string
+    total: number
 }
 ```
 
@@ -110,10 +112,10 @@ type PreApprovalForecast = {
 
 ```
 type PreApprovalForecastTotals = {
-  thirtyDay: string
-  sixtyDay: string
-  oneEightyDay: string
-  threeSixtyFiveDay: string
+  thirtyDay: number
+  sixtyDay: number
+  oneEightyDay: number
+  threeSixtyFiveDay: number
 }
 ```
 
@@ -126,7 +128,7 @@ type VatTransaction = {
     txn: string, 
     name: string, 
     ip_address: string, 
-    subTotal: string, 
-    taxCollected: string
+    subTotal: number, 
+    taxCollected: number
 }
 ```
